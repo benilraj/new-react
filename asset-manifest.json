@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/new-react/static/css/main.49c6db80.chunk.css",
+    "main.js": "/new-react/static/js/main.7602612a.chunk.js",
+    "main.js.map": "/new-react/static/js/main.7602612a.chunk.js.map",
+    "runtime-main.js": "/new-react/static/js/runtime-main.14415129.js",
+    "runtime-main.js.map": "/new-react/static/js/runtime-main.14415129.js.map",
+    "static/css/2.800be05e.chunk.css": "/new-react/static/css/2.800be05e.chunk.css",
+    "static/js/2.b5269766.chunk.js": "/new-react/static/js/2.b5269766.chunk.js",
+    "static/js/2.b5269766.chunk.js.map": "/new-react/static/js/2.b5269766.chunk.js.map",
+    "static/js/3.a709dd34.chunk.js": "/new-react/static/js/3.a709dd34.chunk.js",
+    "static/js/3.a709dd34.chunk.js.map": "/new-react/static/js/3.a709dd34.chunk.js.map",
+    "index.html": "/new-react/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/new-react/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.49c6db80.chunk.css.map": "/new-react/static/css/main.49c6db80.chunk.css.map",
+    "static/js/2.b5269766.chunk.js.LICENSE.txt": "/new-react/static/js/2.b5269766.chunk.js.LICENSE.txt",
+    "static/media/AUemblem.bf891f3a.png": "/new-react/static/media/AUemblem.bf891f3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14415129.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.b5269766.chunk.js",
+    "static/css/main.49c6db80.chunk.css",
+    "static/js/main.7602612a.chunk.js"
+  ]
+}
